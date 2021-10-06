@@ -1,0 +1,11 @@
+certifi
+click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy
+Werkzeug
+pandas
+psycopg2
